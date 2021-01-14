@@ -3,9 +3,9 @@
     {
       "name": "Feed name",
       "ivid": "nope",
-      "url": "example.com/rss.xml"
+      "url": "www.sana.sy/?feed=rss2"
     }
   ],
-  "tgtoken": "your token",
-  "tgchatid": -123
+  "tgtoken": "1458562036:AAEHmqwYhmrnEEOq7_Z-5BxfDJ1rFDtjCsQ",
+  "tgchatid": 1430928172
 }
